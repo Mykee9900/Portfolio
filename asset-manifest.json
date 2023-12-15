@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d23c7d0.css",
-    "main.js": "/static/js/main.282130ac.js",
-    "static/js/787.67686769.chunk.js": "/static/js/787.67686769.chunk.js",
-    "static/media/MovieMaker.mp4": "/static/media/MovieMaker.b5223fc230375fa4be38.mp4",
-    "static/media/IMG_2456.JPG": "/static/media/IMG_2456.77997aa07f6a6a6bca32.JPG",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/toDoList.mp4": "/static/media/toDoList.93f45e3e4789bb5eb224.mp4",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
-    "static/media/calculator.mp4": "/static/media/calculator.f3e90b698926b15f031e.mp4",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
-    "static/media/affirmGen.mp4": "/static/media/affirmGen.bf99c8ae3f8e32f2d781.mp4",
-    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
-    "static/media/Logo1.png": "/static/media/Logo1.5bdfb0141a394790192b.png",
-    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
-    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
-    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
-    "index.html": "/index.html",
-    "main.6d23c7d0.css.map": "/static/css/main.6d23c7d0.css.map",
-    "main.282130ac.js.map": "/static/js/main.282130ac.js.map",
-    "787.67686769.chunk.js.map": "/static/js/787.67686769.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.378c498d.css",
+    "main.js": "/Portfolio/static/js/main.a9f54f55.js",
+    "static/js/787.67686769.chunk.js": "/Portfolio/static/js/787.67686769.chunk.js",
+    "static/media/MovieMaker.mp4": "/Portfolio/static/media/MovieMaker.b5223fc230375fa4be38.mp4",
+    "static/media/IMG_2456.JPG": "/Portfolio/static/media/IMG_2456.77997aa07f6a6a6bca32.JPG",
+    "static/media/fa-solid-900.ttf": "/Portfolio/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/toDoList.mp4": "/Portfolio/static/media/toDoList.93f45e3e4789bb5eb224.mp4",
+    "static/media/fa-brands-400.ttf": "/Portfolio/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/Portfolio/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/calculator.mp4": "/Portfolio/static/media/calculator.f3e90b698926b15f031e.mp4",
+    "static/media/fa-brands-400.woff2": "/Portfolio/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/affirmGen.mp4": "/Portfolio/static/media/affirmGen.bf99c8ae3f8e32f2d781.mp4",
+    "static/media/fa-regular-400.ttf": "/Portfolio/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/Logo1.png": "/Portfolio/static/media/Logo1.5bdfb0141a394790192b.png",
+    "static/media/fa-regular-400.woff2": "/Portfolio/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Portfolio/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Portfolio/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Portfolio/index.html",
+    "main.378c498d.css.map": "/Portfolio/static/css/main.378c498d.css.map",
+    "main.a9f54f55.js.map": "/Portfolio/static/js/main.a9f54f55.js.map",
+    "787.67686769.chunk.js.map": "/Portfolio/static/js/787.67686769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d23c7d0.css",
-    "static/js/main.282130ac.js"
+    "static/css/main.378c498d.css",
+    "static/js/main.a9f54f55.js"
   ]
 }
