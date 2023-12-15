@@ -1,0 +1,31 @@
+.footer {
+    margin-top: 30px;
+    border-top: solid 5px black;
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    align-items: center;
+    background-color: rgb(93, 0, 93);
+}
+
+.footer p {
+    font-size: x-large;
+    color: white;
+}
+
+.footer a {
+    font-size: x-large;
+    color: white;
+    text-decoration: none;
+    text-shadow: 5px 5px 10px black;
+}
+
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer p:hover {
+    font-size: large;
+    color: red;
+}

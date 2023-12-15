@@ -1,0 +1,27 @@
+.header {
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(93, 0, 93);
+    position: fixed;
+    top: 0%;
+    width: 100%;
+}
+
+.headerImg {
+    height: 50px;
+}
+
+.header a {
+    font-size: x-large;
+    color: white;
+    text-decoration: none;
+    text-shadow: 5px 5px 10px black;
+}
+
+.header a:hover {
+    font-size: large;
+    color: red;
+    text-decoration: underline;
+}

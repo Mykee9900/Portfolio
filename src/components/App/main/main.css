@@ -1,0 +1,129 @@
+.sectionOne {
+    margin-top: 100px;
+    height: 400px;
+}
+
+.intro {
+    display: flex;
+    height: 500px;
+    align-items: center;
+}
+
+.profileIntro {
+    margin-right: 100px;
+}
+
+.profileIntro h2 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.profilePic {
+    height: 350px;
+    border-radius: 120px;
+    border: solid 5px purple;
+    margin: 30px;
+}
+
+.bio p {
+    font-size: xx-large;
+    color: black;
+}
+
+.techTools {
+    text-align: left;
+    margin: 180px 50px 0 0;
+    font-weight: 800;
+    font-size: xx-large;
+    float: right;
+}
+
+.icon {
+    font-size: x-large;
+}
+
+.projects {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.frontEnd {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+.projects h2 {
+    margin: auto;
+    font-size: 30px;
+    border-bottom: 5px solid black;
+}
+
+.calculator, .affirmGen, .todoList {
+    width: 300px;
+    margin: 50px;
+}
+
+
+video {
+    border: solid 5px purple;
+    margin: 15px;
+}
+
+.vidP {
+    font-size: larger;
+}
+
+.calculator:hover, .affirmGen:hover, .todoList:hover, .movieMaker:hover {
+    transform: scale(1.1);
+    filter: brightness(0.8);
+}
+
+.fullStack {
+    margin-top: 75px;
+}
+
+.moviePic {
+    border: solid 5px purple;
+    margin: 15px;
+}
+
+.movieMaker {
+    width: 400px;
+    margin: auto;
+}
+
+@media only screen and (max-width: 930px) {
+    .sectionOne {
+        margin-top: 180px;
+    }
+    .projects {
+        margin-top: 220px;
+    }
+    
+}
+
+@media only screen and (max-width: 450px) {
+    .intro {
+        flex-flow: column;
+    }
+    .techTools {
+        font-size: large;
+        margin: 50px;
+        float: none;
+    }
+    .bio p {
+        font-size: medium;
+        margin: 30px;
+    }
+    .sectionOne {
+        margin-top: 100px;
+    }
+    .footer {
+        width: 100%;
+    }
+    .projects {
+        margin-top: 450px;
+    }
+}
