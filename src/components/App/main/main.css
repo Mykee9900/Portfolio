@@ -75,13 +75,14 @@ video {
     font-size: larger;
 }
 
-.calculator:hover, .affirmGen:hover, .todoList:hover, .movieMaker:hover {
+.calculator:hover, .affirmGen:hover, .todoList:hover, .movieMaker:hover, .taskVid:hover {
     transform: scale(1.1);
     filter: brightness(0.8);
 }
 
 .fullStack {
     margin-top: 75px;
+    display: flex;
 }
 
 .moviePic {
@@ -89,7 +90,7 @@ video {
     margin: 15px;
 }
 
-.movieMaker {
+.movieMaker, .taskVid {
     width: 400px;
     margin: auto;
 }

@@ -4,6 +4,7 @@ import calculator from "../../../media/calculator.mp4";
 import affirm from "../../../media/affirmGen.mp4";
 import toDo from "../../../media/toDoList.mp4";
 import movie from "../../../media/MovieMaker.mp4";
+import task from "../../../media/TaskVid.mp4";
 
 export default class Projects extends React.Component{
 
@@ -30,6 +31,10 @@ export default class Projects extends React.Component{
                         <div className="movieMaker">
                             <video controls src={movie} width="300" height="174"></video>
                             <p className="vidP">A project I built with Python/Django, HTML, CSS, and Javascript. The websites uses API calls from The Movie Database and also has user acount acess to search movies and get movie details.</p>
+                        </div>
+                        <div className="taskVid">
+                            <video controls src={task} width="300" height="174"></video>
+                            <p className="vidP">A project I built with Python/Django, HTML, CSS, and Javascript. The has user authentication and also for task validation.</p>
                         </div>
                 </div>
             </div>
